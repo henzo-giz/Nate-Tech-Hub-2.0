@@ -1,0 +1,6 @@
+{
+  "name": "Aether Portal",
+  "description": "Deep-space exploration and advanced production matrix landing platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
